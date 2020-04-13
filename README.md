@@ -4,7 +4,7 @@
 
 **Git** is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools and multiple workflows.
 
-**Install**:
+**Installation**:
 
 GitHub Desktop: [desktop.github.com](https://desktop.github.com/)
 
